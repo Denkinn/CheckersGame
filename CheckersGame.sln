@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{347566E5-139E-4200-B51A-852A22099D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameBrain", "GameBrain\GameBrain.csproj", "{171C865B-19B6-49AD-AA3E-7E63B668ED09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuSystem", "MenuSystem\MenuSystem.csproj", "{439D1317-0313-4FD2-9F2C-93E643BDEC3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{347566E5-139E-4200-B51A-852A22099D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347566E5-139E-4200-B51A-852A22099D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347566E5-139E-4200-B51A-852A22099D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347566E5-139E-4200-B51A-852A22099D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171C865B-19B6-49AD-AA3E-7E63B668ED09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171C865B-19B6-49AD-AA3E-7E63B668ED09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171C865B-19B6-49AD-AA3E-7E63B668ED09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171C865B-19B6-49AD-AA3E-7E63B668ED09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439D1317-0313-4FD2-9F2C-93E643BDEC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439D1317-0313-4FD2-9F2C-93E643BDEC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439D1317-0313-4FD2-9F2C-93E643BDEC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439D1317-0313-4FD2-9F2C-93E643BDEC3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
